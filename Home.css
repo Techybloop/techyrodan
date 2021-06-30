@@ -26,7 +26,7 @@ html{
 body{
   background: /*#f2f2f2*/ #151521;
 }
-nav{
+.nav-bar{
   background: #00050d;
   display: flex;
   flex-wrap: wrap;
