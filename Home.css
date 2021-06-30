@@ -53,8 +53,9 @@ nav .logo img{
   height: 100%;
   width: auto;
 }
-nav .nav-items{
-  height: 100%;
+.nav-bar .nav-items{
+  height: 70px;
+  width: auto;
   display: flex;
   justify-content: center;
   align-items: center;
